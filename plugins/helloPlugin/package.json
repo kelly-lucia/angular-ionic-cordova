@@ -1,0 +1,36 @@
+{
+  "_from": "git+https://github.com/kelly-lucia/helloPlugin.git",
+  "_id": "hello@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/hello",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/kelly-lucia/helloPlugin.git",
+    "rawSpec": "https://github.com/kelly-lucia/helloPlugin.git",
+    "saveSpec": "git+https://github.com/kelly-lucia/helloPlugin.git",
+    "fetchSpec": "https://github.com/kelly-lucia/helloPlugin.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/kelly-lucia/helloPlugin.git#4c8bdeef23460164022c00d6ecf47a27f8bb2c07",
+  "_spec": "https://github.com/kelly-lucia/helloPlugin.git",
+  "_where": "E:\\practice\\angular-ionic-cordova",
+  "author": {
+    "name": "kelly"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "第一个测试插件",
+  "license": "ISC",
+  "main": "hello.js",
+  "name": "hello",
+  "scripts": {
+    "test": "npm run eslint"
+  },
+  "version": "1.0.0"
+}
